@@ -10,6 +10,11 @@
     position: relative;
 }
 
+.container {
+    overflow: hidden;
+    min-height: 100vh;
+}
+
 .main-title {
     margin-top: 98px;
     font-weight: 500;
