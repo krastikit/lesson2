@@ -1,4 +1,4 @@
-f// Переменные, нужные для работы функционала
+// Переменные, нужные для работы функционала
 const trackButton = document.getElementById('trackButton');
 const trackResult = document.getElementById('trackResult');
 const trackNumber = document.getElementById('trackNumber');
